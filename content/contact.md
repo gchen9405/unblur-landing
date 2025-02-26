@@ -8,4 +8,4 @@ menu:
 
 # Contact
 
-[Open an issue](https://github.com/filipecarneiro/hugo-bootstrap-theme/issues/new) on GitHub.
+Email gordonc1@sas.upenn.edu or [open an issue](https://github.com/gchen9405/hugo-mock-landing-page/issues/new) on GitHub.

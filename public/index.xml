@@ -6,8 +6,7 @@
     <description>Recent content on FitPix: AI-Powered Personal Styling App</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <copyright>Open-source &lt;a class=&#34;text-muted text-decoration-none&#34; href=&#34;https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE&#34;&gt;MIT&lt;/a&gt; Licensed.</copyright>
-    <lastBuildDate>Tue, 25 Feb 2025 17:57:57 -0500</lastBuildDate>
+    <copyright>Gordon Chen</copyright>
     <atom:link href="http://localhost:1313/hugo-bootstrap-theme/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
@@ -28,7 +27,7 @@
       <link>http://localhost:1313/hugo-bootstrap-theme/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/hugo-bootstrap-theme/contact/</guid>
-      <description>&lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/filipecarneiro/hugo-bootstrap-theme/issues/new&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open an issue&lt;/a&gt; on GitHub.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;&#xA;&lt;p&gt;Email &lt;a href=&#34;mailto:gordonc1@sas.upenn.edu&#34;&gt;gordonc1@sas.upenn.edu&lt;/a&gt; or &lt;a href=&#34;https://github.com/gchen9405/hugo-mock-landing-page/issues/new&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;open an issue&lt;/a&gt; on GitHub.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Privacy Policy</title>
