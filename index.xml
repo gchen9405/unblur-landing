@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>FitPix: AI-Powered Personal Styling App</title>
+    <title>Unblur</title>
     <link>https://gchen9405.github.io/hugo-mock-landing-page/</link>
-    <description>Recent content on FitPix: AI-Powered Personal Styling App</description>
+    <description>Recent content on Unblur</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Gordon Chen</copyright>
-    <lastBuildDate>Tue, 25 Feb 2025 23:13:43 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 30 Apr 2025 23:40:08 -0400</lastBuildDate>
     <atom:link href="https://gchen9405.github.io/hugo-mock-landing-page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://gchen9405.github.io/hugo-mock-landing-page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://gchen9405.github.io/hugo-mock-landing-page/about/</guid>
-      <description>&lt;h1 id=&#34;about-us&#34;&gt;About Us&lt;/h1&gt;&#xA;&lt;p&gt;Made with ❤️ by the &lt;em&gt;Hugo Bootstrap Theme&lt;/em&gt; &lt;a href=&#34;https://github.com/filipecarneiro/hugo-bootstrap-theme/graphs/contributors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;team&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;about-us&#34;&gt;About Us&lt;/h1&gt;&#xA;&lt;p&gt;Made with ❤️ by the &lt;em&gt;Hugo Bootstrap Theme&lt;/em&gt; &lt;a href=&#34;https://github.com/filipecarneiro/hugo-bootstrap-theme/graphs/contributors&#34;&gt;team&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Code of Conduct</title>
@@ -28,7 +28,7 @@
       <link>https://gchen9405.github.io/hugo-mock-landing-page/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://gchen9405.github.io/hugo-mock-landing-page/contact/</guid>
-      <description>&lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;&#xA;&lt;p&gt;Email &lt;a href=&#34;mailto:gordonc1@sas.upenn.edu&#34;&gt;gordonc1@sas.upenn.edu&lt;/a&gt; or &lt;a href=&#34;https://github.com/gchen9405/hugo-mock-landing-page/issues/new&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;open an issue&lt;/a&gt; on GitHub.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;&#xA;&lt;p&gt;Email &lt;a href=&#34;mailto:gordonc1@sas.upenn.edu&#34;&gt;gordonc1@sas.upenn.edu&lt;/a&gt; or &lt;a href=&#34;https://github.com/gchen9405/hugo-mock-landing-page/issues/new&#34;&gt;open an issue&lt;/a&gt; on GitHub.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Privacy Policy</title>
@@ -42,7 +42,7 @@
       <link>https://gchen9405.github.io/hugo-mock-landing-page/about.pt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://gchen9405.github.io/hugo-mock-landing-page/about.pt/</guid>
-      <description>&lt;h1 id=&#34;sobre-nós&#34;&gt;Sobre nós&lt;/h1&gt;&#xA;&lt;p&gt;Feito com ❤️ pela &lt;a href=&#34;https://github.com/filipecarneiro/hugo-bootstrap-theme/graphs/contributors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;equipa&lt;/a&gt; &lt;em&gt;Hugo Bootstrap Theme&lt;/em&gt;.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;sobre-nós&#34;&gt;Sobre nós&lt;/h1&gt;&#xA;&lt;p&gt;Feito com ❤️ pela &lt;a href=&#34;https://github.com/filipecarneiro/hugo-bootstrap-theme/graphs/contributors&#34;&gt;equipa&lt;/a&gt; &lt;em&gt;Hugo Bootstrap Theme&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
